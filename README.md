@@ -152,10 +152,10 @@ aws s3 cp "local-files/" s3://company-backup/ \
 
 This one-day project delivered:
 - **$1,376 annual savings** 
-- **Improved security posture** for medical practice
+- **Improved security posture** for medical billing company
 - **Better compliance** with PHI handling requirements
 - **Enhanced performance** through modern cloud infrastructure
 
 ---
 
-*Project completed in Q3 2025 for an 8-person medical practice. All costs and savings calculated based on actual usage and billing.*
+*Project completed in Q3 2025 for an 8-person medical billing company. All costs and savings calculated based on actual usage and billing.*
