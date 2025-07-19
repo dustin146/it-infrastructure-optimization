@@ -8,7 +8,7 @@ A comprehensive migration project that reduced annual IT costs from $1,463 to $8
 |--------|--------|--------|---------|
 | **Annual Cost** | $1,463 | $170 | **$1,293 (88% reduction)** |
 | **Monthly Dropbox** | $70 | $0 | $840/year |
-| **Quarterly Hosting** | $155 | $84 (Lightsail) | $536/year |
+| **Quarterly Hosting** | $155 | $21 (Lightsail) | $536/year |
 | **Team Size** | 8 people | 8 people | No reduction in service |
 
 ## 🎯 The Challenge
