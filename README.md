@@ -13,7 +13,7 @@ A comprehensive migration project that reduced annual IT costs from $1,463 to $8
 
 ## 🎯 The Challenge
 
-Our 8-person medical practice was facing:
+Our 8-person medical billing company was facing:
 - **High IT costs**: $1,463/year for basic file storage and website hosting
 - **Compliance issues**: Shared Dropbox logins
 - **Security risks**: No individual user accountability or audit trails
